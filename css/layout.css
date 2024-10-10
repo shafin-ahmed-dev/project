@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: auto;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    margin: 13px 0 0 0;
+}
+
+.logo {
+    height: 50px;
+    width: 300px;
+    background-color: brown;
+}
+
+nav {
+    height: 50px;
+    width: 500px;
+    background-color: rgb(48, 190, 20);
+    /* margin-top: 20px; */
+
+}
+
+.banner {
+    height: 800px;
+    background-color: gray;
+}
+
+section {
+    background-color: brown;
+}
+
+.terms-parents {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.terms {
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    margin: 10px;
+}
